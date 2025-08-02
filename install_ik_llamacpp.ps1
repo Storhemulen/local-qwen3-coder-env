@@ -12,7 +12,7 @@
 
 [CmdletBinding()]
 param(
-    [int]   $CudaArch = 89,
+    [int]   $CudaArch = 86,
     [switch]$SkipBuild
 )
 
